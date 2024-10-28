@@ -1,7 +1,6 @@
 import React from 'react'
-import image1 from '/Users/yash/Desktop/Group12-SOEN341_Project_F24/src/images/photo1.webp';
-import image2 from '/Users/yash/Desktop/Group12-SOEN341_Project_F24/src/images/photo2.jpg';
-
+import image1 from '../../images/photo1.webp'
+import image2 from '../../images/photo2.jpg'
 
 const Home = () => {
   return (
